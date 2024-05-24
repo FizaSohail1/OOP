@@ -62,7 +62,7 @@ class program {
 
         }
         else {
-            console.log(chalk.red.bold("Please enter number"))
+            console.log(chalk.red.bold("Please enter number"));
         }
     }
 

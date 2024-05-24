@@ -1,7 +1,7 @@
 {
   "name": "10-program-oop",
   "version": "1.0.0",
-  "description": "",
+  "description": "" ,
   "bin": "index.js",
   "type": "module",
   "publishConfig": {
